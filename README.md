@@ -15,7 +15,7 @@ but are committed to promoting the progress of human science and technology.
 
 众所周知，这个世界糟糕透了！
 
-宇宙混乱且无序，每一天都是毫无意义的一天！
+宇宙混乱且无序，每一天都是毫无意义的一天。
 
 但是，尘埃岂能掩芳华？
 
