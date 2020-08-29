@@ -5,6 +5,9 @@
 本次前往——未来
 '''
 
-import numpy as np
+import nucleus.dna
 
-np.array()
+class DNA:
+    size = 0
+    leftTime = 0
+
